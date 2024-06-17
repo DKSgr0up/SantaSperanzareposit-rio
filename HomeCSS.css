@@ -1,4 +1,13 @@
 @import url(https://fonts.googleapis.com/css?family=Lato);
+
+
+
+
+
+main{
+  background-color: #06c6eb;
+}
+
 html, body {
   padding: 0;
   margin: 0;
